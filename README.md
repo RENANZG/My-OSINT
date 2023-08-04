@@ -1,7 +1,6 @@
-##OSINT
-Brazil
-Open Source Intelligence
-
+##OSINT  
+Brazil  
+Open Source Intelligence  
 ⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⣠⣤⣶⣶  
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢰⣿⣿⣿⣿  
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣀⣀⣾⣿⣿⣿⣿  
@@ -17,7 +16,7 @@ Open Source Intelligence
 ⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿  
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿  
 
-[https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
+**[https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)**
 
 3.1.1. Google Search
 3.1.1.1. Sinal (“ ”): Busca de Um Termo Exato
