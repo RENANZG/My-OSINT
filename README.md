@@ -1,57 +1,68 @@
 ##  🔍🕵🧐 OSINT 🧐🕵🔎  
-Brazillian  Open Source Intelligence  
+
+Name OSINT - https://namechk.com/  
+Hashes - https://hashes.com/en/decrypt/hash  
+Magic Numbers - https://en.wikipedia.org/wiki/Magic_number_(programming)  
+BlockSherlock - https://www.blocksherlock.com/home/blockchain-explorers  
+
+### TOOLS
 
 **[https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)**
 
-3.1.1. Google Search
-3.1.1.1. Sinal (“ ”): Busca de Um Termo Exato
-3.1.1.2. Sinal (+): Busca de Dois Termos
-3.1.1.3. Sinal (-): Exclusão de Determinado 
-3.1.1.4. Sinal (*): Aceitação de Termo Chave/Curinga
-3.1.1.5. Sinal (OR): Aceitação de Um ou Outro
-3.1.1.6. Site: Pesquisa Exclusiva em Determinado Site
-3.1.1.7. Inurl: Pesquisa Palavras na URL
-3.1.1.8. Intitle: Pesquisa Palavras no Título do Site
-3.1.1.9. Filetype: Pesquisa por Determinado Tipo de Arquivo
-3.1.1.10. Related: Pesquisar páginas semelhantes a uma URL
-3.1.1.11. Info: Pesquisar Informações de Um Site
-3.1.1.12. Cache: Pesquisar Informações em Cache de Um Site
-3.1.2. DuckDuckGo Search
-3.1.3. Google Advanced Search
-3.1.4. Google Alerts
-3.1.5. Google News
-3.2. Veículos / Rodovias
-3.2.1. Detran Pará
-3.2.2. APP Sinesp Cidadão
-3.2.3. Consulta de Multas da PRF
-3.2.4. Consulta de Condições de Rodovias
-3.3. Voos / Aeroportos
-3.3.1. Fly Radar 24
-3.3.2. Flight Aware
-3.4. Navegações / Portos
-3.4.1. Marine Graffiti
+## Brazillian  Open Source Intelligence  
+
+Pre-paid Cell - https://cadastropre.com.br/#consultation  
+
+
+3.1.1. Google Search  
+3.1.1.1. Sinal (“ ”): Busca de Um Termo Exato  
+3.1.1.2. Sinal (+): Busca de Dois Termos  
+3.1.1.3. Sinal (-): Exclusão de Determinado   
+3.1.1.4. Sinal (*): Aceitação de Termo Chave/Curinga  
+3.1.1.5. Sinal (OR): Aceitação de Um ou Outro  
+3.1.1.6. Site: Pesquisa Exclusiva em Determinado Site  
+3.1.1.7. Inurl: Pesquisa Palavras na URL  
+3.1.1.8. Intitle: Pesquisa Palavras no Título do Site  
+3.1.1.9. Filetype: Pesquisa por Determinado Tipo de Arquivo  
+3.1.1.10. Related: Pesquisar páginas semelhantes a uma URL  
+3.1.1.11. Info: Pesquisar Informações de Um Site  
+3.1.1.12. Cache: Pesquisar Informações em Cache de Um Site  
+3.1.2. DuckDuckGo Search  
+3.1.3. Google Advanced Search  
+3.1.4. Google Alerts  
+3.1.5. Google News  
+3.2. Veículos / Rodovias  
+3.2.1. Detran Pará  
+3.2.2. APP Sinesp Cidadão  
+3.2.3. Consulta de Multas da PRF  
+3.2.4. Consulta de Condições de Rodovias  
+3.3. Voos / Aeroportos  
+3.3.1. Fly Radar 24  
+3.3.2. Flight Aware  
+3.4. Navegações / Portos  
+3.4.1. Marine Graffiti  
 3.4.2. Vessel Finder
-3.5. Sistema Telefônico
-3.5.1. Telebrasil (estações rádio base
-3.5.2. Consulta Número
-3.5.3. Qual Operadora?
-3.5.4. Portal TP2 Location
-3.5.5. Truecaller
-3.5.6. Teleco
-3.6. Poder Executivo
-3.6.1. Portal da Transparência
-3.6.2. Painel de Preços
-3.6.3. Portal Brasileiro de Dados Abertos
-3.6.4. Ipea Data
-3.6.5. IBGE Data
-3.6.6. Portal de Acesso à Informação da CGU
-3.6.7. Pesquisa de Relatórios da CGU
-3.6.8. Painel Monitoramento de Dados Abertos da CGU
-3.6.9. Painel de Corregedorias da CGU
-3.6.10. Secretaria do Tesouro Nacional
-3.6.11. Banco do Brasil
-3.6.12. Licitações-e
-3.6.13. BNDES
+3.5. Sistema Telefônico  
+3.5.1. Telebrasil (estações rádio base  
+3.5.2. Consulta Número  
+3.5.3. Qual Operadora?  
+3.5.4. Portal TP2 Location  
+3.5.5. Truecaller  
+3.5.6. Teleco  
+3.6. Poder Executivo  
+3.6.1. Portal da Transparência  
+3.6.2. Painel de Preços  
+3.6.3. Portal Brasileiro de Dados Abertos  
+3.6.4. Ipea Data  
+3.6.5. IBGE Data  
+3.6.6. Portal de Acesso à Informação da CGU  
+3.6.7. Pesquisa de Relatórios da CGU  
+3.6.8. Painel Monitoramento de Dados Abertos da CGU  
+3.6.9. Painel de Corregedorias da CGU  
+3.6.10. Secretaria do Tesouro Nacional  
+3.6.11. Banco do Brasil  
+3.6.12. Licitações-e  
+3.6.13. BNDES  
 3.6.14. Portal dos Convênios do Governo Federal
 3.6.15. Diários Oficiais
 3.6.16. Programa Bolsa Família
