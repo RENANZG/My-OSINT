@@ -1,13 +1,19 @@
 ##  🔍🕵🧐 OSINT 🧐🕵🔎  
 
-Name OSINT - https://namechk.com/  
-Hashes - https://hashes.com/en/decrypt/hash  
+Name OSINT - https://namechk.com  
+IP Logger - https://iplogger.org  
+IP Tracker - https://iplogger.org/ip-tracker  
+Location Tracker - https://iplogger.org/location-tracker  
+URL checker -  https://iplogger.org/url_checker  
+MAC address lookup - https://iplogger.org/mac-checker  
+Rainbow Tables (Hashes) - https://hashes.com/en/decrypt/hash  
+Message Header Analyzer - https://mha.azurewebsites.net/  |  https://github.com/microsoft/MHA  
 Magic Numbers - https://en.wikipedia.org/wiki/Magic_number_(programming)  
-BlockSherlock - https://www.blocksherlock.com/home/blockchain-explorers  
-
-### TOOLS
-
-**[https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)**
+Blockchain Sherlock - https://www.blocksherlock.com/home/blockchain-explorers  
+Web Cache - https://archive.org  
+Google Time Line - https://timeline.google.com  
+Google Takeout - https://takeout.google.com  
+Awesome Osint - https://github.com/jivoi/awesome-osint  
 
 ## Brazillian  Open Source Intelligence  
 
