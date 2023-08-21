@@ -18,7 +18,7 @@ Awesome Osint - https://github.com/jivoi/awesome-osint
 ## Brazillian  Open Source Intelligence  
 
 Pre-paid Cell - https://cadastropre.com.br/#consultation  
-
+Cell Status - https://consultanumero.abrtelecom.com.br/consultanumero/consulta/consultaSituacaoAtualCtg  
 
 3.1.1. Google Search  
 3.1.1.1. Sinal (“ ”): Busca de Um Termo Exato  
