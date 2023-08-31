@@ -1,5 +1,7 @@
 ##  🔍🕵🧐 OSINT 🧐🕵🔎  
 
+**Awesome Osint - https://github.com/jivoi/awesome-osint**
+
 Name OSINT - https://namechk.com  
 IP Logger - https://iplogger.org  
 IP Tracker - https://iplogger.org/ip-tracker  
@@ -11,32 +13,39 @@ Message Header Analyzer - https://mha.azurewebsites.net/  |  https://github.com/
 Magic Numbers - https://en.wikipedia.org/wiki/Magic_number_(programming)  
 Blockchain Sherlock - https://www.blocksherlock.com/home/blockchain-explorers  
 Web Cache - https://archive.org  
+
+
+## Google OSINT    
+**• Google Search**    
+Sinal (“ ”): Busca de Um Termo Exato  
+Sinal (+): Busca de Dois Termos  
+Sinal (-): Exclusão de Determinado   
+Sinal (*): Aceitação de Termo Chave/Curinga  
+Sinal (OR): Aceitação de Um ou Outro  
+Site: Pesquisa Exclusiva em Determinado Site  
+Inurl: Pesquisa Palavras na URL  
+Intitle: Pesquisa Palavras no Título do Site  
+Filetype: Pesquisa por Determinado Tipo de Arquivo  
+Related: Pesquisar páginas semelhantes a uma URL  
+Info: Pesquisar Informações de Um Site  
+Cache: Pesquisar Informações em Cache de Um Site  
+
+**• Google Advanced Search**    
+
 Google Time Line - https://timeline.google.com  
 Google Takeout - https://takeout.google.com  
-Awesome Osint - https://github.com/jivoi/awesome-osint  
+**• Google Alerts**  
+
+**• Google News**    
+
+## DuckDuckGo OSINT    
+DuckDuckGo Search    
 
 ## Brazillian  Open Source Intelligence  
 
 Pre-paid Cell - https://cadastropre.com.br/#consultation  
 Cell Status - https://consultanumero.abrtelecom.com.br/consultanumero/consulta/consultaSituacaoAtualCtg  
 
-3.1.1. Google Search  
-3.1.1.1. Sinal (“ ”): Busca de Um Termo Exato  
-3.1.1.2. Sinal (+): Busca de Dois Termos  
-3.1.1.3. Sinal (-): Exclusão de Determinado   
-3.1.1.4. Sinal (*): Aceitação de Termo Chave/Curinga  
-3.1.1.5. Sinal (OR): Aceitação de Um ou Outro  
-3.1.1.6. Site: Pesquisa Exclusiva em Determinado Site  
-3.1.1.7. Inurl: Pesquisa Palavras na URL  
-3.1.1.8. Intitle: Pesquisa Palavras no Título do Site  
-3.1.1.9. Filetype: Pesquisa por Determinado Tipo de Arquivo  
-3.1.1.10. Related: Pesquisar páginas semelhantes a uma URL  
-3.1.1.11. Info: Pesquisar Informações de Um Site  
-3.1.1.12. Cache: Pesquisar Informações em Cache de Um Site  
-3.1.2. DuckDuckGo Search  
-3.1.3. Google Advanced Search  
-3.1.4. Google Alerts  
-3.1.5. Google News  
 3.2. Veículos / Rodovias  
 3.2.1. Detran Pará  
 3.2.2. APP Sinesp Cidadão  
