@@ -14,7 +14,6 @@ Magic Numbers - https://en.wikipedia.org/wiki/Magic_number_(programming)
 Blockchain Sherlock - https://www.blocksherlock.com/home/blockchain-explorers  
 Web Cache - https://archive.org  
 
-
 ## Google OSINT    
 **• Google Search**    
 Sinal (“ ”): Busca de Um Termo Exato  
@@ -32,12 +31,12 @@ Cache: Pesquisar Informações em Cache de Um Site
 
 **• Google Advanced Search**    
 
-Google Time Line - https://timeline.google.com  
-Google Takeout - https://takeout.google.com  
+
 **• Google Alerts**  
 
 **• Google News**    
 
+https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl
 ## DuckDuckGo OSINT    
 DuckDuckGo Search    
 
