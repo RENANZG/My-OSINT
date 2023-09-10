@@ -1,5 +1,6 @@
 ##  🔍🕵🧐 OSINT 🧐🕵🔎  
 
+## Global OSINT
 **Awesome Osint - https://github.com/jivoi/awesome-osint**    
 **Sherlock Project - https://github.com/sherlock-project/sherlock**    
 
@@ -15,7 +16,7 @@ Magic Numbers - https://en.wikipedia.org/wiki/Magic_number_(programming)
 Blockchain Sherlock - https://www.blocksherlock.com/home/blockchain-explorers  
 Web Cache - https://archive.org  
 
-## Google OSINT    
+### Google OSINT    
 **• Google Search**    
 Sinal (“ ”): Busca de Um Termo Exato  
 Sinal (+): Busca de Dois Termos  
@@ -38,10 +39,102 @@ Cache: Pesquisar Informações em Cache de Um Site
 **• Google News**    
 
 https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl
-## DuckDuckGo OSINT    
+### DuckDuckGo OSINT    
 DuckDuckGo Search    
 
-## Brazillian  Open Source Intelligence  
+###
+
+### Web_Snapshot
+
+- [网页快照网](http://2tool.top/)
+- [Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine](https://archive.org/)
+- [CachedView](http://cachedview.com/)
+- [CachedViews](https://cachedviews.com/)
+- [Page Cached](https://pagecached.com/)
+- [Google Cache Browser 3.0](https://cache.nevkontakte.com/#!)
+- [Cached websites check from Google webcache and Archive org](https://cachearchive.com/)
+- [Arquivo.pt: pesquise páginas do passado!](https://arquivo.pt/?l=pt)
+
+### Reverse_Image_Search
+
+- [Google 图片](https://www.google.com/imghp)
+- [Jeffrey Friedl's Image Metadata Viewer](http://exif.regex.info/exif.cgi)
+- [TinEye Reverse Image Search](https://www.tineye.com/)
+- [百度图片](https://image.baidu.com/)
+- [Google Art & Culture Experiment - Art Palette](https://artsexperiments.withgoogle.com/artpalette/)
+- [Yandex.Images](https://yandex.com/images/)
+- [Aliseeks](https://www.aliseeks.com/search)
+- [Google Reverse Image Search for Mobile](https://www.labnol.org/reverse/)
+
+
+### Academic_Info
+
+- [libgen](https://libgen.pw/)
+- [Semantic Scholar](https://www.semanticscholar.org/)
+- [远见搜索](https://yuanjian.cnki.net/)
+- [Library Genesis](https://libgen.is/)
+- [Wolfram|Alpha](https://www.wolframalpha.com/)
+- [e-Marefa - The Digital Arabic Database : Studies & Researches](https://search.emarefa.net/en)
+- [ERIC - Education Resources Information Center](https://eric.ed.gov/)
+- [Scinapse | Academic search engine for paper](https://www.scinapse.io/)
+- [SweetSearch - A Search Engine for Students](https://sweetsearch.com/)
+- [CORE – Aggregating the world’s open access research papers](https://core.ac.uk/)
+- [BASE (Bielefeld Academic Search Engine): Basic Search](https://www.base-search.net/)
+
+#### acg
+
+- [Multi-service image search](https://iqdb.org/)
+- [SauceNAO Image Search](https://saucenao.com/)
+- [二次元画像詳細検索](https://ascii2d.net/)
+- [WAIT: What Anime Is This?](https://trace.moe/)
+
+### Flight_Airplane_Info
+
+- [Flight Tracker | Flightradar24 | Track Planes In Real-Time](https://www.flightradar24.com/)
+    - [Flightradar24 — how it works? / Habr](https://habr.com/en/post/440596/)
+- [FlightAware](https://zh.flightaware.com/)
+- [real-time flight tracking | Flightadsb | VariFlight](http://flightadsb.variflight.com/)
+- [Direct Flights | Explore all non-stop flights from any airport](https://direct-flights.com/)
+- [AirNav RadarBox](https://www.radarbox.com) - Live Flight Tracker and Airport Status
+- [ADS-B Exchange](https://tar1090.adsbexchange.com/) - tracking 2534 aircraft
+- [FLIGHTVIEW FLIGHT TRACKER](https://www.flightview.com/flighttracker/)
+- [Plane Flight Tracker](http://www.planeflighttracker.com/)
+- [FlightStats](https://www.flightstats.com/v2) - Global Flight Status & Tracker, Airport Weather and Delays
+- [iFly.com](https://www.ifly.com/flight-tracker) - Flight Status | Track Flights
+- [FAA Registry - Aircraft - N-Number Inquiry](https://registry.faa.gov/aircraftinquiry/Aircraft_Inquiry.aspx)
+- [Virtual Radar](https://radar.freedar.uk/VirtualRadar/desktop.html)
+
+### Package_Info
+
+- [快递100](http://www.kuaidi100.com/)
+- [中华人民共和国国家邮政局](http://www.spb.gov.cn/yzbmcx/)
+- [快递查询](http://www.ckd.cn/)
+- [全球物流查询平台](https://www.17track.net/zh-cn)
+
+### Car_Info
+
+- [Проверка авто по гос номеру - Поиск машины бесплатно онлайн - Номерограм](https://www.nomerogram.ru/)
+- [VINCheck® | National Insurance Crime Bureau](https://www.nicb.org/vincheck)
+
+#### VIN_Code
+
+> VIN码是英文(Vehicle Identification Number)的缩写，VIN码是表明车辆身份的代码。VIN码由17位字符（包括英文字母和数字）组成。是制造厂为了识别而给一辆车指定的一组字码。该号码的生成有着特定的规律，对应于每一辆车，并能保证五十年内在全世界范围内不重复出现。因此又有人将其称为"汽车身份证"。车辆识别代号中含有车辆的制造厂家、生产年代、车型、车身型式、发动机以及其它装备的信息。
+
+- [中国汽车网-VIN车辆识别代码查询](http://www.chinacar.com.cn/vin_index.html)
+- [宜配网VIN查询](http://www.yiparts.com/vin)
+- [奉新行 车辆识别码(VIN)查询](http://www.fenco.cn/)
+- [17VIN 17位车架号查询](http://www.17vin.com/)
+- [车信会 VIN查询](http://www.chexinhui.com/pcIndexAction.action?method=showHelpUI&id=16725&typeId=303)
+- [力洋汽车信息查询](http://www.vin114.net/)
+- [搜配网 - VIN码识别_车架号识别_专业汽车配件数据库_车型配件精准查询](https://www.sopei.cn/)
+- [聚合数据- VIN码查询数据接口_免费API接口调用](https://www.juhe.cn/docs/api/id/283?)
+- [极速数据-VIN车辆识别代码查询API接口_免费数据接口](https://www.jisuapi.com/api/vin/)
+- [易源数据-车架号VIN查询车辆信息](https://market.aliyun.com/products/56928004/cmapi013503.html#sku=yuncode750300000)
+- [Free VIN Code Search Service](https://carsowners.net/)
+- [Vehicle History Reports](https://www.faxvin.com/)
+
+
+## Brazillian OSINT  
 
 Pre-paid Cell - https://cadastropre.com.br/#consultation  
 Cell Status - https://consultanumero.abrtelecom.com.br/consultanumero/consulta/consultaSituacaoAtualCtg  
