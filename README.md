@@ -1,6 +1,6 @@
 ##  🔍🕵🧐 OSINT 🧐🕵🔎  
 
-![Salvador+Dali+-+The+Eye+1945+-4082742126](https://github.com/RENANZG/My-OSINT/assets/53377291/3a9e8287-f678-460b-a1dd-8f838d96fefb)
+![Salvador+Dali+-+The+Eye+1945](https://github.com/RENANZG/My-OSINT/assets/53377291/9ab66a02-47e5-432c-8125-48e894eb0823)
 
 **Awesome Osint - https://github.com/jivoi/awesome-osint**    
 **Sherlock Project - https://github.com/sherlock-project/sherlock**    
