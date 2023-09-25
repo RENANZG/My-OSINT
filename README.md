@@ -1,8 +1,10 @@
 ##  🔍🕵🧐 OSINT 🧐🕵🔎  
 
-## Global OSINT
+![Salvador+Dali+-+The+Eye+1945+-4082742126](https://github.com/RENANZG/My-OSINT/assets/53377291/3a9e8287-f678-460b-a1dd-8f838d96fefb)
+
 **Awesome Osint - https://github.com/jivoi/awesome-osint**    
 **Sherlock Project - https://github.com/sherlock-project/sherlock**    
+**OSINT Brazuca Regex - https://github.com/osintbrazuca/osint-brazuca-regex**        
 
 Name OSINT - https://namechk.com  
 IP Logger - https://iplogger.org  
@@ -44,16 +46,7 @@ DuckDuckGo Search
 
 ###
 
-### Web_Snapshot
 
-- [网页快照网](http://2tool.top/)
-- [Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine](https://archive.org/)
-- [CachedView](http://cachedview.com/)
-- [CachedViews](https://cachedviews.com/)
-- [Page Cached](https://pagecached.com/)
-- [Google Cache Browser 3.0](https://cache.nevkontakte.com/#!)
-- [Cached websites check from Google webcache and Archive org](https://cachearchive.com/)
-- [Arquivo.pt: pesquise páginas do passado!](https://arquivo.pt/?l=pt)
 
 ### Reverse_Image_Search
 
@@ -88,10 +81,21 @@ DuckDuckGo Search
 - [二次元画像詳細検索](https://ascii2d.net/)
 - [WAIT: What Anime Is This?](https://trace.moe/)
 
+### Web_Snapshot
+
+- [Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine](https://archive.org/)
+- [CachedView](http://cachedview.com/)
+- [Page Cached](https://pagecached.com/)
+- [Google Cache Browser 3.0](https://cache.nevkontakte.com/#!)
+- [Cached websites check from Google webcache and Archive org](https://cachearchive.com/)
+- [Arquivo.pt: pesquise páginas do passado!](https://arquivo.pt/?l=pt)
+- [网页快照网](http://2tool.top/)
+
+
 ### Flight_Airplane_Info
 
 - [Flight Tracker | Flightradar24 | Track Planes In Real-Time](https://www.flightradar24.com/)
-    - [Flightradar24 — how it works? / Habr](https://habr.com/en/post/440596/)
+- [Flightradar24 — how it works? / Habr](https://habr.com/en/post/440596/)
 - [FlightAware](https://zh.flightaware.com/)
 - [real-time flight tracking | Flightadsb | VariFlight](http://flightadsb.variflight.com/)
 - [Direct Flights | Explore all non-stop flights from any airport](https://direct-flights.com/)
@@ -104,6 +108,11 @@ DuckDuckGo Search
 - [FAA Registry - Aircraft - N-Number Inquiry](https://registry.faa.gov/aircraftinquiry/Aircraft_Inquiry.aspx)
 - [Virtual Radar](https://radar.freedar.uk/VirtualRadar/desktop.html)
 
+### Car_Info
+
+- [Проверка авто по гос номеру - Поиск машины бесплатно онлайн - Номерограм](https://www.nomerogram.ru/)
+- [VINCheck® | National Insurance Crime Bureau](https://www.nicb.org/vincheck)
+
 ### Package_Info
 
 - [快递100](http://www.kuaidi100.com/)
@@ -111,15 +120,10 @@ DuckDuckGo Search
 - [快递查询](http://www.ckd.cn/)
 - [全球物流查询平台](https://www.17track.net/zh-cn)
 
-### Car_Info
-
-- [Проверка авто по гос номеру - Поиск машины бесплатно онлайн - Номерограм](https://www.nomerogram.ru/)
-- [VINCheck® | National Insurance Crime Bureau](https://www.nicb.org/vincheck)
-
 #### VIN_Code
 
-> VIN码是英文(Vehicle Identification Number)的缩写，VIN码是表明车辆身份的代码。VIN码由17位字符（包括英文字母和数字）组成。是制造厂为了识别而给一辆车指定的一组字码。该号码的生成有着特定的规律，对应于每一辆车，并能保证五十年内在全世界范围内不重复出现。因此又有人将其称为"汽车身份证"。车辆识别代号中含有车辆的制造厂家、生产年代、车型、车身型式、发动机以及其它装备的信息。
-
+- [Free VIN Code Search Service](https://carsowners.net/)
+- [Vehicle History Reports](https://www.faxvin.com/)
 - [中国汽车网-VIN车辆识别代码查询](http://www.chinacar.com.cn/vin_index.html)
 - [宜配网VIN查询](http://www.yiparts.com/vin)
 - [奉新行 车辆识别码(VIN)查询](http://www.fenco.cn/)
@@ -130,15 +134,13 @@ DuckDuckGo Search
 - [聚合数据- VIN码查询数据接口_免费API接口调用](https://www.juhe.cn/docs/api/id/283?)
 - [极速数据-VIN车辆识别代码查询API接口_免费数据接口](https://www.jisuapi.com/api/vin/)
 - [易源数据-车架号VIN查询车辆信息](https://market.aliyun.com/products/56928004/cmapi013503.html#sku=yuncode750300000)
-- [Free VIN Code Search Service](https://carsowners.net/)
-- [Vehicle History Reports](https://www.faxvin.com/)
-
 
 ## Brazillian OSINT  
 
 Pre-paid Cell - https://cadastropre.com.br/#consultation  
 Cell Status - https://consultanumero.abrtelecom.com.br/consultanumero/consulta/consultaSituacaoAtualCtg  
 
+<br>
 3.2. Veículos / Rodovias  
 3.2.1. Detran Pará  
 3.2.2. APP Sinesp Cidadão  
@@ -309,3 +311,4 @@ Cell Status - https://consultanumero.abrtelecom.com.br/consultanumero/consulta/c
 3.17.5. Tineye Images
 3.17.6. Camera Trace
 3.17.7. CatchVideo
+</br>
