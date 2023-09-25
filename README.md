@@ -4,6 +4,7 @@
 
 **Awesome Osint - https://github.com/jivoi/awesome-osint**    
 **Sherlock Project - https://github.com/sherlock-project/sherlock**    
+**OSINT Brazuca - https://github.com/osintbrazuca/osint-brazuca**    
 **OSINT Brazuca Regex - https://github.com/osintbrazuca/osint-brazuca-regex**        
 
 Name OSINT - https://namechk.com  
