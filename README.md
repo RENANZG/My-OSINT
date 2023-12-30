@@ -1,71 +1,84 @@
-##  🔍🕵🧐 OSINT 🧐🕵🔎  
+<!DOCTYPE html>
+<html lang='en'>
 
-![92b1689576debf520f717ed85ea1dd88-2538477429](https://github.com/RENANZG/My-OSINT/assets/53377291/27e485fe-222e-44a0-9835-3a9f6e97fbe2)
+<head>
 
-**Awesome Osint - https://github.com/jivoi/awesome-osint**    
-**Sherlock Project - https://github.com/sherlock-project/sherlock**    
-**OSINT Brazuca - https://github.com/osintbrazuca/osint-brazuca**    
-**OSINT Brazuca Regex - https://github.com/osintbrazuca/osint-brazuca-regex**        
+  <meta charset='UTF-8'>
 
-Name OSINT - https://namechk.com  
-IP Logger - https://iplogger.org  
-IP Tracker - https://iplogger.org/ip-tracker  
-Location Tracker - https://iplogger.org/location-tracker  
-URL checker -  https://iplogger.org/url_checker  
-MAC address lookup - https://iplogger.org/mac-checker  
-Rainbow Tables (Hashes) - https://hashes.com/en/decrypt/hash  
-Message Header Analyzer - https://mha.azurewebsites.net/  |  https://github.com/microsoft/MHA  
-Magic Numbers - https://en.wikipedia.org/wiki/Magic_number_(programming)  
-Blockchain Sherlock - https://www.blocksherlock.com/home/blockchain-explorers  
-Web Cache - https://archive.org  
+<body>
 
-### Google OSINT    
-**• Google Search**    
-Sinal (“ ”): Busca de Um Termo Exato  
-Sinal (+): Busca de Dois Termos  
-Sinal (-): Exclusão de Determinado   
-Sinal (*): Aceitação de Termo Chave/Curinga  
-Sinal (OR): Aceitação de Um ou Outro  
-Site: Pesquisa Exclusiva em Determinado Site  
-Inurl: Pesquisa Palavras na URL  
-Intitle: Pesquisa Palavras no Título do Site  
-Filetype: Pesquisa por Determinado Tipo de Arquivo  
-Related: Pesquisar páginas semelhantes a uma URL  
-Info: Pesquisar Informações de Um Site  
-Cache: Pesquisar Informações em Cache de Um Site  
+<div id="header" align="center">
 
-**• Google Advanced Search**    
+<h1> 🔍🕵🧐 OSINT 🧐🕵🔎</h1>
 
+<blockquote><h3>"Even if you're not doing anything wrong, you are being watched and recorded." (Edward Snowden)</h3></blockquote>
 
-**• Google Alerts**  
+<img src=".data/the_eye_1945_-_salvador_dali.jpg" title="The Eye (1945) - Salvador Dali" width="600" height="320" style="float:center"/>
 
-**• Google News**    
+</div>
 
-https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl
-### DuckDuckGo OSINT    
-DuckDuckGo Search    
+<hr>
+
+**Awesome Osint - https://github.com/jivoi/awesome-osint**<br>
+**Sherlock Project - https://github.com/sherlock-project/sherlock**<br>
+
+• Breach Directory - https://breachdirectory.org<br>
+• MD5 Decrypt - https://md5decrypt.net/en/Sha1<br>
+• Name OSINT - https://namechk.com<br>
+• IP Logger - https://iplogger.org<br>
+• IP Tracker - https://iplogger.org/ip-tracker<br>
+• Location Tracker - https://iplogger.org/location-tracker<br>
+• URL checker - https://iplogger.org/url_checker<br>
+• MAC address lookup - https://iplogger.org/mac-checker<br>
+• Message Header Analyzer - https://mha.azurewebsites.net<br>
+• Message Header Analyzer - https://github.com/microsoft/MHA<br>
+• Rainbow Tables (Hashes) - https://hashes.com/en/decrypt/hash<br>
+• Magic Numbers - https://en.wikipedia.org/wiki/Magic_number_(programming)<br>
+• Blockchain Sherlock - https://www.blocksherlock.com/home/blockchain-explorers<br>
+• Web Cache - https://archive.org<br>
+
+### Google OSINT<br>
+
+**• Google Search**<br>
+Sinal (“ ”): Search for an Exact Term<br>
+Sign (+): Search for Two Terms<br>
+Sinal (-): Exclusion of a certain term<br>
+Sinal (*): Acceptance of Key Term/Curinga<br>
+OR Sign: Acceptance of One or the Other<br>
+Site: Exclusive Search on a Certain Site<br>
+Inurl: Search for Words in the URL<br>
+Intitle: Search for Words in the Site Title<br>
+Filetype: Search for a Specific File Type<br>
+Related: Search for pages similar to a URL<br>
+Info: Search for Information on a Site<br>
+Cache: Search for Cached Information on a Site<br>
+
+**• Google Advanced Search**<br>
+
+**• Google Alerts**<br>
+
+**• Google News**<br>
+
+https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl<br>
 
 ###
-
-
 
 ### Reverse_Image_Search
 
 - [Google 图片](https://www.google.com/imghp)
 - [Jeffrey Friedl's Image Metadata Viewer](http://exif.regex.info/exif.cgi)
 - [TinEye Reverse Image Search](https://www.tineye.com/)
-- [百度图片](https://image.baidu.com/)
 - [Google Art & Culture Experiment - Art Palette](https://artsexperiments.withgoogle.com/artpalette/)
 - [Yandex.Images](https://yandex.com/images/)
 - [Aliseeks](https://www.aliseeks.com/search)
 - [Google Reverse Image Search for Mobile](https://www.labnol.org/reverse/)
+- [百度图片](https://image.baidu.com/)
 
 
 ### Academic_Info
 
 - [libgen](https://libgen.pw/)
 - [Semantic Scholar](https://www.semanticscholar.org/)
-- [远见搜索](https://yuanjian.cnki.net/)
 - [Library Genesis](https://libgen.is/)
 - [Wolfram|Alpha](https://www.wolframalpha.com/)
 - [e-Marefa - The Digital Arabic Database : Studies & Researches](https://search.emarefa.net/en)
@@ -74,17 +87,18 @@ DuckDuckGo Search
 - [SweetSearch - A Search Engine for Students](https://sweetsearch.com/)
 - [CORE – Aggregating the world’s open access research papers](https://core.ac.uk/)
 - [BASE (Bielefeld Academic Search Engine): Basic Search](https://www.base-search.net/)
+- [远见搜索](https://yuanjian.cnki.net/)
 
 #### acg
 
 - [Multi-service image search](https://iqdb.org/)
 - [SauceNAO Image Search](https://saucenao.com/)
-- [二次元画像詳細検索](https://ascii2d.net/)
 - [WAIT: What Anime Is This?](https://trace.moe/)
+- [二次元画像詳細検索](https://ascii2d.net/)
 
 ### Web_Snapshot
 
-- [Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine](https://archive.org/)
+- [Internet Archive](https://archive.org/)
 - [CachedView](http://cachedview.com/)
 - [Page Cached](https://pagecached.com/)
 - [Google Cache Browser 3.0](https://cache.nevkontakte.com/#!)
@@ -111,69 +125,72 @@ DuckDuckGo Search
 
 ### Car_Info
 
-- [Проверка авто по гос номеру - Поиск машины бесплатно онлайн - Номерограм](https://www.nomerogram.ru/)
 - [VINCheck® | National Insurance Crime Bureau](https://www.nicb.org/vincheck)
+- [Проверка авто по гос номеру - Поиск машины бесплатно онлайн - Номерограм](https://www.nomerogram.ru/)
 
 ### Package_Info
 
+- [17Track](https://www.17track.net)
 - [快递100](http://www.kuaidi100.com/)
 - [中华人民共和国国家邮政局](http://www.spb.gov.cn/yzbmcx/)
 - [快递查询](http://www.ckd.cn/)
-- [全球物流查询平台](https://www.17track.net/zh-cn)
 
 #### VIN_Code
 
 - [Free VIN Code Search Service](https://carsowners.net/)
 - [Vehicle History Reports](https://www.faxvin.com/)
-- [中国汽车网-VIN车辆识别代码查询](http://www.chinacar.com.cn/vin_index.html)
+- [17VIN 17位车架号查询](http://www.17vin.com/)
 - [宜配网VIN查询](http://www.yiparts.com/vin)
 - [奉新行 车辆识别码(VIN)查询](http://www.fenco.cn/)
-- [17VIN 17位车架号查询](http://www.17vin.com/)
 - [车信会 VIN查询](http://www.chexinhui.com/pcIndexAction.action?method=showHelpUI&id=16725&typeId=303)
 - [力洋汽车信息查询](http://www.vin114.net/)
+- [中国汽车网-VIN车辆识别代码查询](http://www.chinacar.com.cn/vin_index.html)
 - [搜配网 - VIN码识别_车架号识别_专业汽车配件数据库_车型配件精准查询](https://www.sopei.cn/)
 - [聚合数据- VIN码查询数据接口_免费API接口调用](https://www.juhe.cn/docs/api/id/283?)
 - [极速数据-VIN车辆识别代码查询API接口_免费数据接口](https://www.jisuapi.com/api/vin/)
 - [易源数据-车架号VIN查询车辆信息](https://market.aliyun.com/products/56928004/cmapi013503.html#sku=yuncode750300000)
 
-## Brazillian OSINT  
+# Brazillian OSINT<br>
 
-Pre-paid Cell - https://cadastropre.com.br/#consultation  
-Cell Status - https://consultanumero.abrtelecom.com.br/consultanumero/consulta/consultaSituacaoAtualCtg  
+**OSINT Brazuca - https://github.com/osintbrazuca/osint-brazuca**<br>
+**OSINT Brazuca Regex - https://github.com/osintbrazuca/osint-brazuca-regex**
+
+Pre-paid Cell - https://cadastropre.com.br/#consultation<br>
+Cell Status - https://consultanumero.abrtelecom.com.br/consultanumero/consulta/consultaSituacaoAtualCtg<br>
 
 <br>
-3.2. Veículos / Rodovias  
-3.2.1. Detran Pará  
-3.2.2. APP Sinesp Cidadão  
-3.2.3. Consulta de Multas da PRF  
-3.2.4. Consulta de Condições de Rodovias  
-3.3. Voos / Aeroportos  
-3.3.1. Fly Radar 24  
-3.3.2. Flight Aware  
-3.4. Navegações / Portos  
-3.4.1. Marine Graffiti  
-3.4.2. Vessel Finder
-3.5. Sistema Telefônico  
-3.5.1. Telebrasil (estações rádio base  
-3.5.2. Consulta Número  
-3.5.3. Qual Operadora?  
-3.5.4. Portal TP2 Location  
-3.5.5. Truecaller  
-3.5.6. Teleco  
-3.6. Poder Executivo  
-3.6.1. Portal da Transparência  
-3.6.2. Painel de Preços  
-3.6.3. Portal Brasileiro de Dados Abertos  
-3.6.4. Ipea Data  
-3.6.5. IBGE Data  
-3.6.6. Portal de Acesso à Informação da CGU  
-3.6.7. Pesquisa de Relatórios da CGU  
-3.6.8. Painel Monitoramento de Dados Abertos da CGU  
-3.6.9. Painel de Corregedorias da CGU  
-3.6.10. Secretaria do Tesouro Nacional  
-3.6.11. Banco do Brasil  
-3.6.12. Licitações-e  
-3.6.13. BNDES  
+3.2. Veículos / Rodovias
+3.2.1. Detran Pará
+3.2.2. APP Sinesp Cidadão
+3.2.3. Consulta de Multas da PRF
+3.2.4. Consulta de Condições de Rodovias
+3.3. Voos / Aeroportos
+3.3.1. Fly Radar 24
+3.3.2. Flight Aware
+3.4. Navegações / Portos
+3.4.1. Marine Graffiti
+3.4.2. Vessel Fi
+3.5. Sistema Telefônico
+3.5.1. Telebrasil (estações rádio base
+3.5.2. Consulta Número
+3.5.3. Qual Operadora?
+3.5.4. Portal TP2 Location
+3.5.5. Truecaller
+3.5.6. Teleco
+3.6. Poder Executivo
+3.6.1. Portal da Transparência
+3.6.2. Painel de Preços
+3.6.3. Portal Brasileiro de Dados Abertos
+3.6.4. Ipea Data
+3.6.5. IBGE Data
+3.6.6. Portal de Acesso à Informação da CGU
+3.6.7. Pesquisa de Relatórios da CGU
+3.6.8. Painel Monitoramento de Dados Abertos da CGU
+3.6.9. Painel de Corregedorias da CGU
+3.6.10. Secretaria do Tesouro Nacional
+3.6.11. Banco do Brasil
+3.6.12. Licitações-e
+3.6.13. BNDES
 3.6.14. Portal dos Convênios do Governo Federal
 3.6.15. Diários Oficiais
 3.6.16. Programa Bolsa Família
@@ -231,7 +248,7 @@ Cell Status - https://consultanumero.abrtelecom.com.br/consultanumero/consulta/c
 3.13. Sistema Ambiental, Agrário e Geolocalização
 3.13.1. Portal Amazônia Protege
 3.13.2. Portal Brasileiro de Dados Geoespaciais
-3.13.3. Sistema DETER (Mapa de alertas
+3.13.3. Sistema DETER (Mapa de alertas)
 3.13.4. Sistema PRODES (Mapa de Desmatamento)
 3.13.5. Banco de Dados de Queimadas
 3.13.6. Mapas de Cobertura e Uso do Solo
@@ -313,3 +330,7 @@ Cell Status - https://consultanumero.abrtelecom.com.br/consultanumero/consulta/c
 3.17.6. Camera Trace
 3.17.7. CatchVideo
 </br>
+
+
+</body>
+</html>
