@@ -11,10 +11,7 @@
 
 <h1> 🔍🕵🧐 OSINT 🧐🕵🔎</h1>
 
-<blockquote><h3>"Even if you're not doing anything wrong, you are being watched and recorded.<br>
-And the storage capability of these systems increases every year, consistently<br>
-by orders of magnitude. You don’t have to have done anything wrong, you simply<br>
-have to fall under suspicion." (Edward Snowden)</h3></blockquote>
+<blockquote><h3>"Even if you're not doing anything wrong, you are being watched and recorded. And the storage capability of these systems increases every year, consistently by orders of magnitude. You don’t have to have done anything wrong, you simply have to fall under suspicion." (Edward Snowden)</h3></blockquote>
 
 <img src=".data/the_eye_1945_-_salvador_dali.jpg" title="The Eye (1945) - Salvador Dali" width="600" height="320" style="float:center"/>
 
@@ -334,6 +331,19 @@ Cell Status - https://consultanumero.abrtelecom.com.br/consultanumero/consulta/c
 3.17.7. CatchVideo
 </br>
 
+<a href="https://github.com/RENANZG/My-Anonymity#-anonymity-"><p align="right">Back to Top ⬆</p></a>
+
+<!-- ################################################# -->
+
+<div id="footer">
+
+<br>
+<br>
+<br>
+
+<p align="center"><img src="https://github.com/RENANZG/My-Anonymity#-anonymity-"  align="center"/></p>
+
+</div>
 
 </body>
 </html>
