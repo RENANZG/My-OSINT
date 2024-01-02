@@ -335,7 +335,7 @@ Cell Status - https://consultanumero.abrtelecom.com.br/consultanumero/consulta/c
 
 <!-- ################################################# -->
 
-<a href="https://github.com/RENANZG/My-OSINT?tab=readme-ov-file"><p align="right">Back to Top ⬆</p></a>
+<p align="right"><a href="https://github.com/RENANZG/My-OSINT?tab=readme-ov-file">Back to Top ⬆</p></a>
 
 <!-- ################################################# -->
 
