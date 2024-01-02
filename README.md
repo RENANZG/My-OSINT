@@ -13,7 +13,7 @@
 
 <blockquote><h3>"Even if you're not doing anything wrong, you are being watched and recorded. And the storage capability of these systems increases every year, consistently by orders of magnitude. You don’t have to have done anything wrong, you simply have to fall under suspicion." (Edward Snowden)</h3></blockquote>
 
-<p align="center"><img src=".data/the_eye_1945_-_salvador_dali.jpg" title="The Eye (1945) - Salvador Dali" width="600" height="320"/></p>
+<p align="center"><img src=".data/the_eye_1945_-_salvador_dali.jpg" title="The Eye (1945) - Salvador Dali" width="600" height="340"/></p>
 
 </div>
 
