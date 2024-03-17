@@ -57,6 +57,15 @@ Cache: Search for Cached Information on a Site<br>
 
 **• Google Advanced Search**<br>
 
+Google Guide Advanced Operator Quick Reference<br>
+https://www.googleguide.com/advanced_operators_reference.html<br>
+
+NSA Lessons - Untangling the Web<br>
+https://en.wikisource.org/wiki/Untangling_the_Web<br>
+
+Department of Defense (DoD) FOIA/MDR Logs<br>
+https://www.governmentattic.org/documentsDoDLogs.html<br>
+
 **• Google Alerts**<br>
 
 **• Google News**<br>
