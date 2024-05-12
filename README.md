@@ -39,6 +39,11 @@
 • Blockchain Sherlock - https://www.blocksherlock.com/home/blockchain-explorers<br>
 • Web Cache - https://archive.org<br>
 
+
+<details>
+<summary>OSINT</summary>
+<br>
+
 ### Google OSINT<br>
 
 **• Google Search**<br>
@@ -341,6 +346,47 @@ Cell Status - https://consultanumero.abrtelecom.com.br/consultanumero/consulta/c
 3.17.6. Camera Trace
 3.17.7. CatchVideo
 </br>
+
+</details>
+
+<!-- ################################################# -->
+
+<details>
+<summary>OSINT</summary>
+<br>
+
+
+<h4>CIA</h4>
+
+
+<h4>STASI</h4>
+
+<p>Informants and the tactics used</p>
+ 
+https://www.stasi-mediathek.de/medien/richtlinie-176-zur-bearbeitung-operativer-vorgaenge/blatt/307/
+
+https://www.stasi-mediathek.de/medien/richtlinie-179-fuer-die-arbeit-mit-inoffiziellen-mitarbeitern-und-gesellschaftlichen-mitarbeitern-fuer-sicherheit/blatt/8/
+
+<h4>GESTAPO</h4>
+
+<h4>KGB</h4>
+
+<h4>MI5 and MI6</h4>
+
+
+
+</details>
+
+
+<!-- ################################################# -->
+
+<details>
+<summary>GEOINT</summary>
+<br>
+
+<h4>Eye in the Sky</h4>
+
+</details>
 
 <!-- ################################################# -->
 
