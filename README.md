@@ -44,6 +44,9 @@
 <summary>OSINT</summary>
 <br>
 
+
+👷🛠️UNDER CONSTRUCTION🚧🏗<br>
+
 ### Google OSINT<br>
 
 **• Google Search**<br>
@@ -352,12 +355,18 @@ Cell Status - https://consultanumero.abrtelecom.com.br/consultanumero/consulta/c
 <!-- ################################################# -->
 
 <details>
-<summary>OSINT</summary>
+<summary>HUMINT</summary>
 <br>
 
+👷🛠️UNDER CONSTRUCTION🚧🏗<br>
 
 <h4>CIA</h4>
 
+<h4>FBI</h4>
+
+<h4>GESTAPO</h4>
+
+<h4>MOSSAD</h4>
 
 <h4>STASI</h4>
 
@@ -367,12 +376,10 @@ https://www.stasi-mediathek.de/medien/richtlinie-176-zur-bearbeitung-operativer-
 
 https://www.stasi-mediathek.de/medien/richtlinie-179-fuer-die-arbeit-mit-inoffiziellen-mitarbeitern-und-gesellschaftlichen-mitarbeitern-fuer-sicherheit/blatt/8/
 
-<h4>GESTAPO</h4>
 
 <h4>KGB</h4>
 
 <h4>MI5 and MI6</h4>
-
 
 
 </details>
@@ -381,8 +388,42 @@ https://www.stasi-mediathek.de/medien/richtlinie-179-fuer-die-arbeit-mit-inoffiz
 <!-- ################################################# -->
 
 <details>
+<summary>SIGINT</summary>
+<br>
+
+
+👷🛠️UNDER CONSTRUCTION🚧🏗<br>
+
+<h4>NSA</h4>
+
+<p>Backbone filter</p>
+
+<h4>DIY CYBER SURVEILLANCE SYSTEM</h4>
+
+<ol>
+<li>Bulk data collection</li>
+<li>Search functionality</li>
+<li>Cookie tracking</li>
+<li>Identification of anonymous users</li> 
+<li>Malware injection into target</li>
+<ol>
+
+<h4>DIY SIGINT</h4>
+
+<p>Home made satelite jammer</p>
+
+<p>Eavesdropping, Jamming, and Hijacking Satellite Systems</p>
+
+
+</details>
+
+<!-- ################################################# -->
+
+<details>
 <summary>GEOINT</summary>
 <br>
+
+👷🛠️UNDER CONSTRUCTION🚧🏗<br>
 
 <h4>Eye in the Sky</h4>
 
